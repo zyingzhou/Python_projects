@@ -92,7 +92,7 @@ def main():
                 </div>
                 <!--考研倒计时结束-->
             </div>
-            <p><font size="5">周志颖：</font><br />&emsp;&emsp;请你记住2019年7月14日发生的事情！<br /><br />&emsp;&emsp;
+            <p><font size="5">测试：</font><br />&emsp;&emsp;测试内容！<br /><br />&emsp;&emsp;
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.zhouzying.cn">
             志颖博客</a><br />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;%s</p>
 </body>
