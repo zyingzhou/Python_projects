@@ -31,7 +31,7 @@ def send_mail(content, theme):
     # msg['Subject'] = Header('这里填写邮件的主题', 'utf-8').encode()
     msg['Subject'] = Header(theme, 'utf-8').encode()
     # 连接邮件服务器
-    server = smtplib.SMTP(smtp_server, 25)
+    server = smtplib.SMTP_SSL(smtp_server, 465)
     # 登录邮件
     server.login(from_addr, password)
     print("登录成功!")
